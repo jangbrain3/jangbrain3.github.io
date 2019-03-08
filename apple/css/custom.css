@@ -307,6 +307,7 @@ header #header-bar #header-menu-right {
 }
 #movetotop {
 	opacity:1;
+	z-index: 110;
 }
 #movetotop::before {
 	content:'';
