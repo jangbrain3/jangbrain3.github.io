@@ -286,6 +286,20 @@ nav#nav > .nav-menu-area a:hover, nav#nav > .nav-menu-area a.active {
 #board-info>h1 .badge-success{
 	background-color: #5e7fb5;
 }
+#board-info h1>a::before {
+	content: '';
+    position: absolute;
+    background: url(../images/mojave_512.png) no-repeat;
+    background-size: 75px 75px;
+    left: 0;
+    width: 80px;
+    height: 80px;
+    margin: -6px 0 0 7px;
+    z-index: 100;
+}
+#board-info>h1>a {
+	margin-left: 80px;
+}
 #board-info>a.board-right-menu {
 	border-left: none;
 	color: #616161;
