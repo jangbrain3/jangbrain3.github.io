@@ -266,8 +266,8 @@ header #header-bar #header-menu-right {
     animation: ColorB 5s infinite;
 }
 #article-list>.article-list-row.notice {
-	background-color: #ffedeb;
-    border-bottom: 1px solid #ffc9c3;
+	background-color: #eff6ff;
+	border-bottom: 1px solid #b8d4ff;
 }
 #article-list>.article-list-row.hot>.item>.list-header>strong,
 #article-list>.article-list-row.hot>.item>.list-header>b,

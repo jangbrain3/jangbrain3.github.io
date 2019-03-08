@@ -394,33 +394,6 @@ nav#nav > .nav-menu-area a:hover, nav#nav > .nav-menu-area a.active {
 	color: #517a84;
 	white-space: nowrap;
 }
-.favo .fa-heart {
-	opacity: 0.8;
-	color: rgba(0,0,0,0); 
-	vertical-align: 2px !important;
-	width: 12px;
-	height: 12px;
-	background: url('../images/heart01.gif');
-	background-repeat: no-repeat;
-	background-size: 12px;
-}
-span.a-badge {
-	width: 1.3em;
-}
-span.a-badge i.fa.fa-star {
-	opacity: 0.75;
-	color: rgba(0,0,0,0);
-	vertical-align: 2px !important;
-	width: 18px;
-	height: 16px;
-	background: url('../images/star01.gif');
-	background-repeat: no-repeat;
-	background-size: 83%;
-	background-position: center 2px;
-	-webkit-animation: StarSS 2s infinite;
-	-moz-animation: StarSS 2s infinite;
-	animation: StarSS 2s infinite;
-}
 .fr-toolbar .fr-command.fr-btn, .fr-popup .fr-command.fr-btn {
 	width: 35px;
 }
@@ -458,8 +431,8 @@ footer {
     animation: ColorB 5s infinite;
 }
 #article-list>.article-list-row.notice {
-	background-color: #fff6f5;
-	border-top: 1px solid #ffd5d0;
+	background-color: #eff6ff;
+	border-bottom: 1px solid #b8d4ff;
 }
 #article-info>h2 {
 	font-weight: 700;
