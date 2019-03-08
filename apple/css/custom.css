@@ -235,7 +235,7 @@ header #header-bar #header-menu-right {
 	color: #ff7777;
 }
 #article-content-wrapper>.header {
-	border-top: 3px solid #ff7777;
+	border-top: 3px solid #c7c7c7;
 }
 #article-reply-area > .header h5 {
 	color: #3379b7;
@@ -266,8 +266,8 @@ header #header-bar #header-menu-right {
     animation: ColorB 5s infinite;
 }
 #article-list>.article-list-row.notice {
-	background-color: #fff6f5;
-	border-top: 1px solid #ffd5d0;
+	background-color: #ffedeb;
+    border-bottom: 1px solid #ffc9c3;
 }
 #article-list>.article-list-row.hot>.item>.list-header>strong,
 #article-list>.article-list-row.hot>.item>.list-header>b,
@@ -731,8 +731,8 @@ body {
 	border-color: #000000;
 }
 #article-content-wrapper>.header {
-	border-color: #ff7777 !important;
-	background: #000000;
+    border-color: #000000!important;
+    background: #191919;
 }
 header #right-search-form>input[type=text] {
 	background: #000000;
