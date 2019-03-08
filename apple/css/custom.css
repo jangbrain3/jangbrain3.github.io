@@ -793,6 +793,10 @@ a.custom-badge-link {
 #article-reply-area #reply-best-area>div {
 	border-color: #ff7777 !important;
 }
+#article-list #article-option-area>#article-option-area-toggle-btn {
+	background: transparent !important;
+	margin-right: 16px;
+}
 header .row>div:nth-child(1)>a {
 	filter: invert(0.9);
 	-webkit-filter: invert(0.9);
