@@ -21,7 +21,7 @@ header.nav-up {
 	top: 0;
 }
 header>#header-area>a>h1 {
-    background-image: url(http://howtouch.com/css/apple_logo.svg);
+    background-image: url(../images/apple_logo.svg);
     background-size: 89px 32px;
     background-repeat: no-repeat;
 }
@@ -52,8 +52,8 @@ header:before {
 	left: 0;
 	height: 45px;
 	width: 100%;
-	background-image: url('http://howtouch.com/css/apple_text.svg');
-	background-size: 110px 35px;
+	background-image: url('../images/apple_text.svg');
+	background-size: 76px 26px;
 	background-repeat: no-repeat;
 	background-position: center;
 	filter: invert(1);
