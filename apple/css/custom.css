@@ -562,6 +562,10 @@ header #header-bar #header-menu-right {
     background:#eac42a !important;
     box-shadow: 0 1px 0 0 #d0ad21 !important;
 }
+#article-list #article-option-area>#article-option-area-toggle-btn {
+	background: transparent !important;
+	margin-right: 16px;
+}
 
 /* ======= 효과 ======= */
 
@@ -792,10 +796,6 @@ a.custom-badge-link {
 }
 #article-reply-area #reply-best-area>div {
 	border-color: #ff7777 !important;
-}
-#article-list #article-option-area>#article-option-area-toggle-btn {
-	background: transparent !important;
-	margin-right: 16px;
 }
 header .row>div:nth-child(1)>a {
 	filter: invert(0.9);
