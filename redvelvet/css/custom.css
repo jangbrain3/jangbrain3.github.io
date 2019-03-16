@@ -42,7 +42,8 @@ header::before {
 	width:600px;
 	position:absolute;
 	top:0;
-	left:360px;
+	left:50%;
+	margin-left: -370px;
 }
 header #header-bar {
 	margin-top: 12px;
