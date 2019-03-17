@@ -37,13 +37,13 @@ header {
 header::before {
 	content:'';
 	background: url('../images/redvelvet_top.jpg') no-repeat;
-	background-size: 317px 127px;
+	background-size: 486px 127px;
+	background-position: center;
 	height:242px;
-	width:600px;
+	width:100%;
+	min-width: 1140px;
 	position:absolute;
 	top:0;
-	left:50%;
-	margin-left: -370px;
 }
 header #header-bar {
 	margin-top: 12px;
@@ -158,6 +158,7 @@ header #right-search-form>input[type=text] {
 	border: 5px solid #ec4e05;
 	background-color: #171717;
 	height: 40px;
+	color: #fff;
 }
 header #right-search-form>#right-search-btn {
 	color: #ec4e04;
@@ -195,8 +196,8 @@ header #header-bar #header-menu-right {
 	line-height: 14px;
 }
 #article-list #article-list-category {
-	border-top: 0px solid #656565;
-	background: #e8e8e8;
+	border-top: 2px solid #f16324;
+	background: #ffffff;
 }
 #article-list #article-list-category>a {
 	font-size: 13px;
@@ -274,8 +275,8 @@ header #header-bar #header-menu-right {
     animation: ColorB 5s infinite;
 }
 #article-list>.article-list-row.notice {
-	background-color: #eff6ff;
-	border-bottom: 1px solid #b8d4ff;
+	background-color: #ffece9;
+	border-bottom: 1px solid #ff9d6e;
 }
 #article-list>.article-list-row.hot>.item>.list-header>strong,
 #article-list>.article-list-row.hot>.item>.list-header>b,
