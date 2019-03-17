@@ -194,7 +194,7 @@ header #header-bar #header-menu-right {
 	vertical-align: 2px;
 }
 #board-info #viewers-area #viewers::before {
-	content: '존버준인 ';
+	content: '존버중인 ';
 }
 #board-info #viewers-area #viewers::after {
 	content: '명의 러비들';
