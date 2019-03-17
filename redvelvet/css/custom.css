@@ -184,12 +184,22 @@ header #header-bar #header-menu-right {
 #board-info>h1 .badge-success {
 	background-color: #ec4e05;
 }
+#board-info #viewers-area {
+	color: #ec4e05 !important;
+}
 #board-info #viewers-area #viewers {
 	color: #ec4e05;
 	font-size: 12px;
 	font-weight: 700;
 	vertical-align: 2px;
 }
+#board-info #viewers-area #viewers::before {
+	content: '존버준인 ';
+}
+#board-info #viewers-area #viewers::after {
+	content: '명의 러비들';
+}
+
 /* ======= 게시글 ======= */
 
 #article-list {
