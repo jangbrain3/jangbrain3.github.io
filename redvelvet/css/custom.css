@@ -36,10 +36,10 @@ header {
 }
 header::before {
 	content:'';
-	background: url('../images/redvelvet_top.jpg') no-repeat;
-	background-size: 486px 127px;
+	background: url('../images/redvelvet_top2.jpg') no-repeat;
+	background-size: 729px 127px;
 	background-position: center;
-	height:242px;
+	height:127px;
 	width:100%;
 	min-width: 1140px;
 	position:absolute;
