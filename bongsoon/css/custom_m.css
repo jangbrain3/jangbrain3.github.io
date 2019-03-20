@@ -390,11 +390,7 @@ nav#nav > .nav-menu-area a:hover, nav#nav > .nav-menu-area a.active {
 	width: 150px;
 }
 .fr-toolbar {
-	border-top: 5px solid #d695ed;
-	border-style: solid;
-	border-image: linear-gradient(45deg, #82de64, #d5ff54, #e5ff54, #a2de0e);
-	border-image-slice: 1;
-	border-image-width: 5px 0 0 0;
+	border-top: 5px solid #4c84bd;
 }
 #article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged,#article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
 	color: #517a84;
