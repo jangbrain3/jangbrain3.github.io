@@ -41,12 +41,15 @@ header>#header-area {
 	width: 92%;
 	height: 45px;
 	margin: 10px 4%;
-	background: #2a74bfe3;
+	background: #f5dee8e3;
 	border-radius: 25px;
 	-webkit-backdrop-filter: saturate(180%) blur(5px);
 	padding: 5px 0;
 	transition: all 500ms ease-in-out;
 	transform-origin: 50% 100%;
+}
+header.nav-up>#header-area{
+    background:#2a74bfe3;
 }
 header:before {
 	content: '';
@@ -200,7 +203,7 @@ nav#nav>.nav-header>a {
 	font-weight: 100;
 }
 #header-top-notice strong.notice-badge {
-	background: #272727;
+	background: #cc0368;
 }
 nav#nav > .nav-menu-area a:hover, nav#nav > .nav-menu-area a.active {
 	color: #ffffff;
