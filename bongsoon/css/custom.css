@@ -188,7 +188,7 @@ header #header-bar #header-menu-right {
 	vertical-align: 2px;
 }
 #board-info #viewers-area #viewers::before {
-	content: '트수쿤 ';
+	content: '트수쿤~ ';
 }
 #board-info #viewers-area #viewers::after {
 	content: '명 뭐하냐는';

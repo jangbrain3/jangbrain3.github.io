@@ -87,7 +87,7 @@ header.nav-down:before {
 header>#header-search-bar {
 	position: fixed;
 	width: 92%;
-	background: rgba(205, 236, 213, 0.95);
+	background: #2a74bfe3;
 	border-radius: 25px;
 	height: 45px;
 	margin: 10px 4%;
@@ -161,7 +161,7 @@ body {
 	opacity: 0;
 }
 nav#nav {
-	background: #e6fbff !important;
+	background: #f9e9e9 !important;
 }
 nav#nav>#nav-upper>#header-close-bar-link {
 	padding: 11px 16px 8px;
@@ -187,12 +187,12 @@ nav#nav > #nav-upper #noteDropdownContainer>a {
 	line-height: 37px;
 }
 nav#nav>.nav-header {
-	background: #c3e2e6;
-	color: #122f56;
+	background: #f1c1c1;
+	color: #b70e4c;
 	font-size: 17px;
 	font-weight: 300;
-	border-top: 1px solid #35579e;
-	border-bottom: 2px solid #35729e;
+	border-top: 1px solid #d22866;
+	border-bottom: 2px solid #d22866;
 }
 nav#nav>.nav-header>a {
 	color: #12562c;
