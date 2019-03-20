@@ -29,6 +29,7 @@ header>#header-area>a>h1 {
 	margin-left: 0;
 	margin-top: -15px;
 	transition: all 500ms ease-in-out;
+	transition-delay: 200ms;
 }
 header>#header-area>#header-search-link, header>#header-area>#header-bar-link {
 	color: #272727 !important;
@@ -66,6 +67,7 @@ header:before {
 	background-repeat: no-repeat;
 	background-position: center top;
 	transition: all 500ms ease-in-out;
+	transition-delay: 200ms;
 	opacity: 0;
 }
 header.nav-up>#header-area {
@@ -75,6 +77,7 @@ header.nav-down>#header-area {
 }
 header.nav-up>#header-area>a>h1 {
 	opacity: 0;
+	transition-delay: 0s;
 }
 header.nav-up:after {
 	opacity: 1;
@@ -86,6 +89,8 @@ header.nav-up:before {
 header.nav-down:before {
 	opacity: 0;
 	height: 0;
+	top: 55px;
+	transition-delay: 0s;
 }
 header>#header-search-bar {
 	position: fixed;
