@@ -622,3 +622,10 @@ font-weight: 700;
 img[src*="https://static-cdn.jtvnw.net/chat-badges/mod.png"] {
 	display: none;
 }
+img[src*="https://static-cdn.jtvnw.net/badges/v1/0867e11c-789e-4a9f-a281-ecb4a1d4b30a/1"] {
+	background:url('https://static-cdn.jtvnw.net/badges/v1/0867e11c-789e-4a9f-a281-ecb4a1d4b30a/2');
+	background-size:18px;
+	width:18px;
+	height:18px;
+	padding-left:18px;
+}
