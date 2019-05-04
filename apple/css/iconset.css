@@ -16,3 +16,13 @@ img[src*="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
 	*/
 	display: none;
 }
+
+img[src*="https://static-cdn.jtvnw.net/badges/v1/58f0df56-e995-4544-8f3c-77efff0a0bd8/1"] {
+	background:url('../images/apple_logo.svg');
+	background-size:18px 18px;
+	filter:invert(0.6);
+	width:18px;
+	height:18px;
+	padding-left:18px;
+	/* 구스클림님 */
+}
