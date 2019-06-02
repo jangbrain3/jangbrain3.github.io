@@ -25,3 +25,35 @@ img[src*='https://static-cdn.jtvnw.net/emoticons/v1/69/1.0'] {
 	height: 35px !important;
 	width: 35px !important;
 }
+/* OptimizePrime */
+span[data-param1*="OptimizePrime"]>img,
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/16/1.0"] {
+	background: url('../images/gif/bongsoon_002.gif') no-repeat
+}
+span[data-param1*="OptimizePrime"]>img {background-size: 35px;padding-left: 35px;}
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/16/1.0"] {background-size: 60px;padding-left: 60px;height: 60px !important;width: 60px}
+
+/* StoneLightning */
+span[data-param1*="StoneLightning"]>img,
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/17/1.0"] {
+	background: url('../images/gif/bongsoon_003.gif') no-repeat
+}
+span[data-param1*="StoneLightning"]>img {background-size: 35px;padding-left: 35px;}
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/17/1.0"] {background-size: 60px;padding-left: 60px;height: 60px !important;width: 60px}
+
+/* TheRinger */
+span[data-param1*="TheRinger"]>img,
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/18/1.0"] {
+	background: url('../images/gif/bongsoon_004.gif') no-repeat
+}
+span[data-param1*="TheRinger"]>img {background-size: 35px;padding-left: 35px;}
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/18/1.0"] {background-size: 60px;padding-left: 60px;height: 60px !important;width: 60px}
+
+/* RedCoat */
+span[data-param1*="RedCoat"]>img,
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/22/1.0"] {
+	background: url('../images/gif/bongsoon_005.gif') no-repeat
+}
+span[data-param1*="RedCoat"]>img {background-size: 35px;padding-left: 35px;}
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/22/1.0"] {background-size: 60px;padding-left: 60px;height: 60px !important;width: 60px}
+
