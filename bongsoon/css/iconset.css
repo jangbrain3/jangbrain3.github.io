@@ -19,7 +19,7 @@ img[src*='https://static-cdn.jtvnw.net/emoticons/v1/69/1.0'] {
 }
 .fr-popup .fr-emoticon {
 	width: 35px !important;
-	padding: 5px 0;
+	padding: 2px;
 }
 .fr-popup .fr-emoticon img {
 	height: 35px !important;
@@ -57,3 +57,10 @@ img[src*="https://static-cdn.jtvnw.net/emoticons/v1/22/1.0"] {
 span[data-param1*="RedCoat"]>img {background-size: 35px;padding-left: 35px;}
 img[src*="https://static-cdn.jtvnw.net/emoticons/v1/22/1.0"] {background-size: 60px;padding-left: 60px;height: 60px !important;width: 60px}
 
+/* JonCarnage */
+span[data-param1*="JonCarnage"]>img,
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/26/1.0"] {
+	background: url('../images/gif/bongsoon_006.gif') no-repeat
+}
+span[data-param1*="JonCarnage"]>img {background-size: 35px;padding-left: 35px;}
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/26/1.0"] {background-size: 60px;padding-left: 60px;height: 60px !important;width: 60px}
