@@ -31,7 +31,7 @@ span[data-param1*="JKanStyle"]>img {
 	background-repeat: no-repeat;
 	background-size: 35px;
 }
-#article-content-wrapper #article-content img[alt*="JKanStyle"] {
+img[src*="https://static-cdn.jtvnw.net/emoticons/v1/15/1.0"] {
 	background-image: url('../images/gif/bongsoon_001.gif');
 	background-repeat: no-repeat;
 	background-size: 60px;
