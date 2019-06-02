@@ -25,6 +25,15 @@ img[src*='https://static-cdn.jtvnw.net/emoticons/v1/69/1.0'] {
 	height: 35px !important;
 	width: 35px !important;
 }
+
+/* JKanStyle */
+span[data-param1*="JKanStyle"]>img,
+#article-content-wrapper #article-content img[src*="https://static-cdn.jtvnw.net/emoticons/v1/15/1.0"] {
+	background: url('../images/gif/bongsoon_001.gif') no-repeat
+}
+span[data-param1*="JKanStyle"]>img {background-size: 35px;padding-left: 35px;}
+#article-content-wrapper #article-content img[src*="https://static-cdn.jtvnw.net/emoticons/v1/15/1.0"] {background-size: 60px;padding-left: 60px;height: 60px !important;width: 60px}
+
 /* OptimizePrime */
 span[data-param1*="OptimizePrime"]>img,
 #article-content-wrapper #article-content img[src*="https://static-cdn.jtvnw.net/emoticons/v1/16/1.0"] {
