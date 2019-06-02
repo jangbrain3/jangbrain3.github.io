@@ -25,17 +25,3 @@ img[src*='https://static-cdn.jtvnw.net/emoticons/v1/69/1.0'] {
 	height: 35px !important;
 	width: 35px !important;
 }
-span[data-param1*="JKanStyle"]>img {
-	padding-left: 35px;
-	background-image: url('../images/gif/bongsoon_001.gif');
-	background-repeat: no-repeat;
-	background-size: 35px;
-}
-img[src*="https://static-cdn.jtvnw.net/emoticons/v1/15/1.0"] {
-	background-image: url('../images/gif/bongsoon_001.gif');
-	background-repeat: no-repeat;
-	background-size: 60px;
-	height: 60px !important;
-	width: 60px;
-	padding-left: 60px;
-}

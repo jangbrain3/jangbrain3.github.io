@@ -165,7 +165,7 @@ header #header-bar #header-menu-right {
 }
 #board-info h1>a::before {
 	content: '';
-	background: url(https://static-cdn.jtvnw.net/jtv_user_pictures/4ff0c1f9-9563-44b6-b53e-35bb6a16bb9e-profile_image-300x300.jpeg) no-repeat;
+	background: url(https://static-cdn.jtvnw.net/jtv_user_pictures/5f179460-761b-404e-afc6-9ec9ea26df1a-profile_image-150x150.png) no-repeat;
 	background-size: 85px;
 	width: 85px;
 	height: 85px;
@@ -292,11 +292,12 @@ header #header-bar #header-menu-right {
 }
 #article-list>.article-list-row.hot {
     background-color: #f3f8ff;
-    border-top: 1px solid #8ab7ff;
-    border-bottom: 1px solid #8ab7ff;
+    border-top: 0;
+    border-bottom: 0;
     -webkit-animation: ColorB 5s infinite;
     -moz-animation: ColorB 5s infinite;
     animation: ColorB 5s infinite;
+    margin: 6px 0;
 }
 #article-list>.article-list-row.notice {
 	background-color: #f5fbff;
