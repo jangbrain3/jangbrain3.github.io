@@ -19,7 +19,6 @@ img[src*='https://static-cdn.jtvnw.net/emoticons/v1/69/1.0'] {
 }
 .fr-popup .fr-emoticon {
 	width: 35px !important;
-	padding: 0px;
 }
 .fr-popup .fr-emoticon img {
 	height: 35px !important;
