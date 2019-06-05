@@ -82,6 +82,69 @@ img[alt*="GingerPower"],
 	background: url('../images/gif/bongsoon_008.gif') no-repeat
 }
 
+/* DansGame */
+span[data-param1*="DansGame"]>img,
+img[alt*="DansGame"],
+#article-content-wrapper #article-content img[alt*="DansGame"] {
+	background: url('../images/gif/bongsoon_009.gif') no-repeat
+}
+
+/* SwiftRage */
+span[data-param1*="SwiftRage"]>img,
+img[alt*="SwiftRage"],
+#article-content-wrapper #article-content img[alt*="SwiftRage"] {
+	background: url('../images/gif/bongsoon_010.gif') no-repeat
+}
+
+/* PJSalt */
+span[data-param1*="PJSalt"]>img,
+img[alt*="PJSalt"],
+#article-content-wrapper #article-content img[alt*="PJSalt"] {
+	background: url('../images/gif/bongsoon_011.gif') no-repeat
+}
+
+/* KevinTurtle */
+span[data-param1*="KevinTurtle"]>img,
+img[alt*="KevinTurtle"],
+#article-content-wrapper #article-content img[alt*="KevinTurtle"] {
+	background: url('../images/gif/bongsoon_012.gif') no-repeat
+}
+
+/* Kreygasm */
+span[data-param1*="Kreygasm"]>img,
+img[alt*="Kreygasm"],
+#article-content-wrapper #article-content img[alt*="Kreygasm"] {
+	background: url('../images/gif/bongsoon_013.gif') no-repeat
+}
+
+/* ArsonNoSexy */
+span[data-param1*="ArsonNoSexy"]>img,
+img[alt*="ArsonNoSexy"],
+#article-content-wrapper #article-content img[alt*="ArsonNoSexy"] {
+	background: url('../images/gif/bongsoon_014.gif') no-repeat
+}
+
+/* SMOrc */
+span[data-param1*="SMOrc"]>img,
+img[alt*="SMOrc"],
+#article-content-wrapper #article-content img[alt*="SMOrc"] {
+	background: url('../images/gif/bongsoon_015.gif') no-repeat
+}
+
+/* OneHand */
+span[data-param1*="OneHand"]>img,
+img[alt*="OneHand"],
+#article-content-wrapper #article-content img[alt*="OneHand"] {
+	background: url('../images/gif/bongsoon_016.gif') no-repeat
+}
+
+/* HassanChop */
+span[data-param1*="HassanChop"]>img,
+img[alt*="HassanChop"],
+#article-content-wrapper #article-content img[alt*="HassanChop"] {
+	background: url('../images/gif/bongsoon_017.gif') no-repeat
+}
+
 span[data-param1*="JKanStyle"]>img,
 span[data-param1*="OptimizePrime"]>img,
 span[data-param1*="StoneLightning"]>img,
@@ -89,7 +152,16 @@ span[data-param1*="TheRinger"]>img,
 span[data-param1*="RedCoat"]>img,
 span[data-param1*="JonCarnage"]>img,
 span[data-param1*="BCWarrior"]>img,
-span[data-param1*="GingerPower"]>img
+span[data-param1*="GingerPower"]>img,
+span[data-param1*="DansGame"]>img,
+span[data-param1*="SwiftRage"]>img,
+span[data-param1*="PJSalt"]>img,
+span[data-param1*="KevinTurtle"]>img,
+span[data-param1*="Kreygasm"]>img,
+span[data-param1*="ArsonNoSexy"]>img,
+span[data-param1*="SMOrc"]>img,
+span[data-param1*="OneHand"]>img,
+span[data-param1*="HassanChop"]>img
 {
 	background-size: 35px;padding-left: 35px;
 }
@@ -100,7 +172,16 @@ img[alt*="TheRinger"], #article-content-wrapper #article-content img[alt*="TheRi
 img[alt*="RedCoat"], #article-content-wrapper #article-content img[alt*="RedCoat"],
 img[alt*="JonCarnage"], #article-content-wrapper #article-content img[alt*="JonCarnage"],
 img[alt*="BCWarrior"], #article-content-wrapper #article-content img[alt*="BCWarrior"],
-img[alt*="GingerPower"], #article-content-wrapper #article-content img[alt*="GingerPower"]
+img[alt*="GingerPower"], #article-content-wrapper #article-content img[alt*="GingerPower"],
+img[alt*="DansGame"], #article-content-wrapper #article-content img[alt*="DansGame"],
+img[alt*="SwiftRage"], #article-content-wrapper #article-content img[alt*="SwiftRage"],
+img[alt*="PJSalt"], #article-content-wrapper #article-content img[alt*="PJSalt"],
+img[alt*="KevinTurtle"], #article-content-wrapper #article-content img[alt*="KevinTurtle"],
+img[alt*="Kreygasm"], #article-content-wrapper #article-content img[alt*="Kreygasm"],
+img[alt*="ArsonNoSexy"], #article-content-wrapper #article-content img[alt*="ArsonNoSexy"],
+img[alt*="SMOrc"], #article-content-wrapper #article-content img[alt*="SMOrc"],
+img[alt*="OneHand"], #article-content-wrapper #article-content img[alt*="OneHand"],
+img[alt*="HassanChop"], #article-content-wrapper #article-content img[alt*="HassanChop"]
 {
 	background-size: 80px;padding-left: 80px;width: 80px;height: 80px !important
 }
