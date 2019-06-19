@@ -11,6 +11,20 @@ img[src*="https://static-cdn.jtvnw.net/badges/v1/67d7841c-70ec-4d78-b199-610a466
 	height:18px;
 	padding-left:18px;
 }
+img[src*="https://static-cdn.jtvnw.net/badges/v1/32deca39-283f-44db-b917-b602b93cc8f2/1"] {
+	background:url('https://static-cdn.jtvnw.net/badges/v1/32deca39-283f-44db-b917-b602b93cc8f2/2');
+	background-size:18px;
+	width:18px;
+	height:18px;
+	padding-left:18px;
+}
+img[src*="https://static-cdn.jtvnw.net/badges/v1/c5cd747c-34b3-473b-97d5-3ca438693ac9/1"] {
+	background:url('https://static-cdn.jtvnw.net/badges/v1/c5cd747c-34b3-473b-97d5-3ca438693ac9/2');
+	background-size:18px;
+	width:18px;
+	height:18px;
+	padding-left:18px;
+}
 
 /* ======= 구독티콘 ======= */
 
