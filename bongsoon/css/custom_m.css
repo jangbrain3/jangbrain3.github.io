@@ -48,7 +48,7 @@ header>#header-area {
 	width: 92%;
 	height: 45px;
 	margin: 10px 4%;
-	background: #f5dee8e3;
+	background: #dee6f5e3;
 	border-radius: 25px;
 	-webkit-backdrop-filter: saturate(180%) blur(5px);
 	padding: 5px 0;
@@ -271,17 +271,17 @@ nav#nav > .nav-menu-area a:hover, nav#nav > .nav-menu-area a.active {
 }
 #board-info {
 	height: 85px;
-	background: #e6c3c3;
-	border-top: 1px solid #d22866;
-	border-bottom: 2px solid #d22866;
+	background: #417bc4;
+	border-top: 1px solid #0545b1;
+	border-bottom: 2px solid #0545b1;
 }
 #board-info>h1 {
 	width: 100%;
 	height: 42px;
-	border-bottom: 1px solid #de5688;
+	border-bottom: 1px solid #0545b1;
 	overflow: hidden;
 	white-space: nowrap;
-	background: #ffedf1;
+	background: #b5d6ff;
 }
 #board-info>h1 .badge-success{
 	background-color: #0e4b89;
@@ -308,7 +308,7 @@ nav#nav > .nav-menu-area a:hover, nav#nav > .nav-menu-area a.active {
 	height: 70px;
 	margin: -2px 0 0 10px;
 	z-index: 100;
-	border: 2px solid #de5688;
+	border: 2px solid #0545b1;
 	border-radius: 50%;
 }
 #board-info>h1>a {
